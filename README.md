@@ -1,3 +1,3 @@
 # ANC
 AutoNinjaCoin 
-Welcome here you will find the wallets for AutoNinjaCoin, we have lunix and windows wallets rdy fro your to download
+Welcome here you will find the Wallets for AutoNinjaCoin, we have linux and Windows Wallets ready for you too Download
